@@ -11,7 +11,7 @@ search results. Passes parameters called ``-found`` and ``-skipped``
 containing the appropriate values for ``-maxrecords`` and ``-skiprecords`` to
 be used in the query that generates the results.
 
-Output can be styled using a class called "pagination."
+Output can be styled using a class called ``pagination``.
 
 Requires `wrp <https://gist.github.com/stevepiercy/4f51a05a752f1b554c7f>`_.
 
