@@ -17,7 +17,7 @@ Requires `wrp <https://gist.github.com/stevepiercy/4f51a05a752f1b554c7f>`_.
 
 Sample Usage:
 
-code-block:: lasso
+.. code-block:: lasso
 
     pagination(
         -found=149,
