@@ -1,5 +1,5 @@
-paginate-lasso
-==============
+pagination-lasso
+================
 
 This Lasso method outputs "Google-like" pagination links in Twitter Bootstrap
 3 style, including links for first page, previous page, a user-definable range
