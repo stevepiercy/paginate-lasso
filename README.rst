@@ -34,8 +34,11 @@ copying the URL. It accepts the following parameters
 Demonstration
 -------------
 A working example that demonstrates `pagination-lasso` is on the website for
-`SelecTree <https://selectree.calpoly.edu/>`_. If the search result has at
-least fifty records, then the pagination links will be displayed.
+`SelecTree
+<https://selectree.calpoly.edu/search/?search_tree_name=a&button_search=Search>`_.
+This link executes a query for trees in which their names contain the letter
+"a". This returns at least fifty records, so that the pagination links will be
+displayed.
 
 
 Requirements
