@@ -38,7 +38,9 @@ A working example that demonstrates `pagination-lasso` is on the website for
 <https://selectree.calpoly.edu/search/?search_tree_name=a&button_search=Search>`_.
 This link executes a query for trees in which their names contain the letter
 "a". This returns at least fifty records, so that the pagination links will be
-displayed.
+displayed. This demonstration was written with `Knop
+<https://github.com/knop-project/knop>`_, an open source web application
+framework using Lasso 8.x or 9.x.
 
 
 Requirements
